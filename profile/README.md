@@ -3,11 +3,3 @@
 </h1>
 
 <p align="center">For a better internet.</p>
-
-<p align="center">
-  <a href="https://amazisoft.ruxwez.dev">🌍 Website</a>
-  •
-  <a href="https://docs.ruxwez.dev">📄 Documentation</a>
-  •
-  <a href="https://discord.gg/etfxu5dpRX" target="_blank">💬 Discord</a>
-</p>
